@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "741171407163",
+    "project_id": "fir-ecommerce-acbaa",
+    "storage_bucket": "fir-ecommerce-acbaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741171407163:android:139bc3e6f3260e17b72f1e",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741171407163-ssdcvth6731kccafdmr7clhq2etdoq7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpmUdfJSfql_iP2qlLBdflVbar0BMHSqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741171407163-qbj6uo0vcpulmuvk4jenqbj9vpbuaojq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741171407163:android:0b27da9b545c91b4b72f1e",
+        "android_client_info": {
+          "package_name": "com.example.user_ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741171407163-ssdcvth6731kccafdmr7clhq2etdoq7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpmUdfJSfql_iP2qlLBdflVbar0BMHSqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741171407163-qbj6uo0vcpulmuvk4jenqbj9vpbuaojq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
